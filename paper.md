@@ -13,9 +13,6 @@ author: Alex Malova
     * kangaroos
     * funnel web spiders
 
-    #My favorite swiss Animals
+# My favorite American Animals
 
-    There is no specific swiss animals that I know
-
-    #My favorite italian Animals
-    My favorite Italian animal are wolves
+* grizzly bears
