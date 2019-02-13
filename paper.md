@@ -2,12 +2,12 @@
 title: The best paper about animals ever written
 author: Alex Malova
   ---
-    # Introduction
+# Introduction
 
     Animals are what makes a country great!
     My favorite country ranking depends ONLY on the animals that live in it.
 
-    # My favorite Australian Animals
+# My favorite Australian Animals
 
     * koalas
     * kangaroos
